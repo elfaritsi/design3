@@ -474,11 +474,6 @@ section {
 .about .descUs img{
   border-radius: 8px;
 }
-.about .descUs.bg {
-  background-color: #f8f8f8;
-  padding: 20px;
-  border-radius: 10px;
-}
 @media (max-width: 768px) {
   .about .descUs{
     margin-top: 2em;
